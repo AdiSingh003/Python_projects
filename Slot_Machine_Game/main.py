@@ -155,6 +155,8 @@ def main():
             break
 
     print(f"You are left with Rs.{balance}")   
+    print(f"Hello everyone")   
+
          
 
 
