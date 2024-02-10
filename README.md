@@ -1,1 +1,1 @@
-## SLot Machine Game
+## Slot Machine Game
